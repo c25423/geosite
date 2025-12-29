@@ -2339,6 +2339,7 @@ DOMAIN-SUFFIX,archives.gov
 DOMAIN-SUFFIX,archivx.to
 DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,archlinuxarm.org
+DOMAIN-SUFFIX,archlinuxcn.org
 DOMAIN-SUFFIX,arcraiders.com
 DOMAIN-SUFFIX,arctosia.com
 DOMAIN-SUFFIX,area120.com
@@ -5949,6 +5950,7 @@ DOMAIN-SUFFIX,collegesexgames.com
 DOMAIN-SUFFIX,colliderporn.com
 DOMAIN-SUFFIX,collins.co.uk
 DOMAIN-SUFFIX,collins.in
+DOMAIN-SUFFIX,collinsdictionary.com
 DOMAIN-SUFFIX,colombianas.webcam
 DOMAIN-SUFFIX,colorfulstage.com
 DOMAIN-SUFFIX,colorprotechnology.com
@@ -9922,21 +9924,18 @@ DOMAIN-SUFFIX,fusker.xxx
 DOMAIN-SUFFIX,futanarihq.com
 DOMAIN-SUFFIX,futhead.com
 DOMAIN-SUFFIX,futpromos.com
-DOMAIN-SUFFIX,futuesop.com
 DOMAIN-SUFFIX,futufin.com
 DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futuhkapp.com
 DOMAIN-SUFFIX,futuhn.com
 DOMAIN-SUFFIX,futuholdings.com
 DOMAIN-SUFFIX,futunited.com
-DOMAIN-SUFFIX,futuniuniu.com
-DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,futurechinaforum.org
 DOMAIN-SUFFIX,futuremessage.org
 DOMAIN-SUFFIX,futureofbritishmanufacturing.com
 DOMAIN-SUFFIX,futureofbusinesssurvey.org
 DOMAIN-SUFFIX,futureofmaktingthings.com
 DOMAIN-SUFFIX,futureshop.ca
-DOMAIN-SUFFIX,futustatic.com
 DOMAIN-SUFFIX,fux.com
 DOMAIN-SUFFIX,fuxporn.com
 DOMAIN-SUFFIX,fuyin.net
@@ -10295,6 +10294,7 @@ DOMAIN-SUFFIX,gfw.org.ua
 DOMAIN-SUFFIX,gfw.press
 DOMAIN-SUFFIX,gfw.report
 DOMAIN-SUFFIX,gfwatch.org
+DOMAIN-SUFFIX,gfwbao.com
 DOMAIN-SUFFIX,gfwlist.end
 DOMAIN-SUFFIX,gfwlist.start
 DOMAIN-SUFFIX,gfx.ms
@@ -10499,6 +10499,7 @@ DOMAIN-SUFFIX,gobuyonlinestore.net
 DOMAIN-SUFFIX,gockhuatviet.com
 DOMAIN-SUFFIX,godaddy
 DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,godbolt.org
 DOMAIN-SUFFIX,godfootsteps.org
 DOMAIN-SUFFIX,godns.work
 DOMAIN-SUFFIX,godoc.org
@@ -14515,6 +14516,7 @@ DOMAIN-SUFFIX,lbtube.com
 DOMAIN-SUFFIX,lcgirls.com
 DOMAIN-SUFFIX,lcsmerch.com
 DOMAIN-SUFFIX,ld.hao123img.com
+DOMAIN-SUFFIX,ldoceonline.com
 DOMAIN-SUFFIX,ldplayer.net
 DOMAIN-SUFFIX,ldplayer.tw
 DOMAIN-SUFFIX,ldstatic.com
@@ -14907,6 +14909,7 @@ DOMAIN-SUFFIX,lotcrap.com
 DOMAIN-SUFFIX,lotsawahouse.org
 DOMAIN-SUFFIX,lotuslight.org.hk
 DOMAIN-SUFFIX,lotuslight.org.tw
+DOMAIN-SUFFIX,lovart.ai
 DOMAIN-SUFFIX,love-sextoys.co.uk
 DOMAIN-SUFFIX,love4porn.com
 DOMAIN-SUFFIX,love6.tv
@@ -17095,6 +17098,7 @@ DOMAIN-SUFFIX,neotokyo.supertop-100.com
 DOMAIN-SUFFIX,neovim.io
 DOMAIN-SUFFIX,neow.in
 DOMAIN-SUFFIX,neowin.net
+DOMAIN-SUFFIX,nephobox.com
 DOMAIN-SUFFIX,nepusoku.com
 DOMAIN-SUFFIX,nerdnudes.com
 DOMAIN-SUFFIX,nervanasys.com
@@ -17203,6 +17207,7 @@ DOMAIN-SUFFIX,newmitbbs.com
 DOMAIN-SUFFIX,newmonst1erbeatsto1re.com
 DOMAIN-SUFFIX,newmonsterbeatsheadphones.com
 DOMAIN-SUFFIX,newnews.ca
+DOMAIN-SUFFIX,newpipe.net
 DOMAIN-SUFFIX,newpppp.com
 DOMAIN-SUFFIX,news.co.uk
 DOMAIN-SUFFIX,news.com.au
@@ -22277,6 +22282,7 @@ DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamdb.info
 DOMAIN-SUFFIX,steamdeck.com
 DOMAIN-SUFFIX,steamgames.com
+DOMAIN-SUFFIX,steamladder.com
 DOMAIN-SUFFIX,steamofporn.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamserver.net
@@ -25210,7 +25216,12 @@ DOMAIN-SUFFIX,vpsxb.net
 DOMAIN-SUFFIX,vraiesagesse.net
 DOMAIN-SUFFIX,vrbgay.com
 DOMAIN-SUFFIX,vrcams.io
+DOMAIN-SUFFIX,vrcdn.cloud
+DOMAIN-SUFFIX,vrcdn.live
+DOMAIN-SUFFIX,vrcdn.video
+DOMAIN-SUFFIX,vrchat.cloud
 DOMAIN-SUFFIX,vrchat.com
+DOMAIN-SUFFIX,vrchat.net
 DOMAIN-SUFFIX,vred-essentials.com
 DOMAIN-SUFFIX,vredessentials.com
 DOMAIN-SUFFIX,vredprofessional.com
@@ -25422,6 +25433,7 @@ DOMAIN-SUFFIX,webjb.org
 DOMAIN-SUFFIX,webkit.org
 DOMAIN-SUFFIX,webkitgtk.org
 DOMAIN-SUFFIX,weblagu.com
+DOMAIN-SUFFIX,weblate.org
 DOMAIN-SUFFIX,webmoneyinfo.com
 DOMAIN-SUFFIX,webmproject.org
 DOMAIN-SUFFIX,webnovel.com

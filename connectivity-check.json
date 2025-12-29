@@ -4,6 +4,7 @@
     {
       "domain": [
         "connect.rom.miui.com",
+        "connectivity-check.ubuntu.com",
         "connectivitycheck.platform.hicloud.com",
         "connectivitycheck.platform.hihonorcloud.com"
       ],
