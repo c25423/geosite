@@ -24,6 +24,11 @@
         "sydney.bing.com",
         "webchannel-alkalimakersuite-pa.clients6.google.com"
       ],
+      "domain_keyword": [
+        "anthropic",
+        "claude",
+        "openai"
+      ],
       "domain_suffix": [
         "ai.azure.com",
         "ai.studio",
@@ -99,6 +104,8 @@
         "kiro.dev",
         "labs.google",
         "labs.google.com",
+        "liveperson.net",
+        "lpsnmedia.net",
         "makersuite.google.com",
         "marscode.com",
         "meta.ai",
@@ -125,7 +132,10 @@
         "sora.com",
         "trae.ai",
         "turn.livekit.cloud",
-        "x.ai"
+        "x.ai",
+        "youmind.ai",
+        "youmind.com",
+        "youmind.site"
       ]
     }
   ]
