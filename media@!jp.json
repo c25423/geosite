@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "anime1.me",
+        "age.tv",
+        "bilimanga.net",
+        "bilinovel.com",
+        "manhuagui.com",
+        "wenku8.net"
+      ],
+      "domain_keyword": [
+        "agefans",
+        "agedm"
+      ]
+    }
+  ]
+}
