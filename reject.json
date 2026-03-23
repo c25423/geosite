@@ -107314,6 +107314,11 @@
         "lofter.httpdns.c.163.com",
         "music.httpdns.c.163.com"
       ]
+    },
+    {
+      "domain": [
+        "userlocation.googleapis.com"
+      ]
     }
   ]
 }
