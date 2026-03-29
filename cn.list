@@ -216,6 +216,7 @@ DOMAIN,is5.mzstatic.com
 DOMAIN,itunes-apple.com.akadns.net
 DOMAIN,itunes.apple.com
 DOMAIN,itunesconnect.apple.com
+DOMAIN,izattime.qcomgeo2.com
 DOMAIN,js-cdn.music.apple.com
 DOMAIN,km.support.apple.com
 DOMAIN,ksn-cinfo-geo.kaspersky-labs.com
@@ -406,6 +407,7 @@ DOMAIN,www.recaptcha.net
 DOMAIN,www.support.apple.com
 DOMAIN,www4-static.gog-statics.com
 DOMAIN,xp.apple.com
+DOMAIN,xtratime.qcomgeo2.com
 DOMAIN-SUFFIX,0.zone
 DOMAIN-SUFFIX,00.net
 DOMAIN-SUFFIX,000.link
@@ -13231,6 +13233,7 @@ DOMAIN-SUFFIX,anhuiry.com
 DOMAIN-SUFFIX,anhuisjx.com
 DOMAIN-SUFFIX,anhuisuya.com
 DOMAIN-SUFFIX,anhuiwine.com
+DOMAIN-SUFFIX,anhuiyun.com
 DOMAIN-SUFFIX,anhuizk.com
 DOMAIN-SUFFIX,ani-sh.com
 DOMAIN-SUFFIX,aniccw.net
@@ -104595,7 +104598,6 @@ DOMAIN-SUFFIX,xiaomicp.com
 DOMAIN-SUFFIX,xiaomidns.com
 DOMAIN-SUFFIX,xiaomidns.net
 DOMAIN-SUFFIX,xiaomiev.com
-DOMAIN-SUFFIX,xiaomiflash.com
 DOMAIN-SUFFIX,xiaomiinc.net
 DOMAIN-SUFFIX,xiaomimimo.com
 DOMAIN-SUFFIX,xiaomimobile.com
