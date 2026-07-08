@@ -116,6 +116,7 @@ DOMAIN-SUFFIX,azk8s.cn
 DOMAIN-SUFFIX,aznbcontent.cn
 DOMAIN-SUFFIX,aztask.cn
 DOMAIN-SUFFIX,azure-api.cn
+DOMAIN-SUFFIX,azure-api.net
 DOMAIN-SUFFIX,azure-apihub.cn
 DOMAIN-SUFFIX,azure-automation.cn
 DOMAIN-SUFFIX,azure-connectedvehicles-stage.cn
@@ -179,6 +180,7 @@ DOMAIN-SUFFIX,azuresandbox.cn
 DOMAIN-SUFFIX,azureserviceprofiler.com
 DOMAIN-SUFFIX,azuresmartspaces.net
 DOMAIN-SUFFIX,azurestackvalidation.com
+DOMAIN-SUFFIX,azurestaticapps.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,b2clogin.cn
 DOMAIN-SUFFIX,b3itech.cn
@@ -227,6 +229,7 @@ DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,cn.bing.net
 DOMAIN-SUFFIX,cn.mm.bing.net
 DOMAIN-SUFFIX,codethemicrobit.com
+DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,cortanaanalytics.com
 DOMAIN-SUFFIX,cortanaskills.com
 DOMAIN-SUFFIX,cosmosdb.info
